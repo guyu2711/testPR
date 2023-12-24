@@ -24,3 +24,9 @@ def add_numbers(a, b):
 # 调用函数
 sum = add_numbers(3, 4)
 print(sum)  # 输出：7
+def main():
+    # 这里放置你的主程序代码
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
