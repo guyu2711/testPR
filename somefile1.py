@@ -8,8 +8,6 @@ class MyStruct:
         self.field2 = field2
         self.field3 = field3
 
-
-
 def add_numbers(a, b):
     result = a + b
     return result
