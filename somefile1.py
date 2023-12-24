@@ -15,3 +15,10 @@ my_struct_instance = MyStruct(1, 'data', True)
 print(my_struct_instance.field1)  # 输出 1
 my_struct_instance.field2 = 'new data'
 print(my_struct_instance.field2)  # 输出 'new data'
+
+def main():
+    # 这里放置你的主程序代码
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
